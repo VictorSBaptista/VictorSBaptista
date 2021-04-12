@@ -33,9 +33,9 @@ Good bye and good luck.
 
 ## Meus Status no GitHub
 
-<img align="center" src="https://tinyurl.com/bwvj5r5" alt="" />
+<img align="right" src="https://tinyurl.com/bwvj5r5" alt="" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
 
 
 <img src="https://komarev.com/ghpvc/?username=VictorSBaptista&label=Profile%20views&color=0e75b6&style=social" alt="Victor da Silva Batista" />
