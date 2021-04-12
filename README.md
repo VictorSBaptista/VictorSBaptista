@@ -20,12 +20,6 @@ I am a Math graduated, by the Universidade Tecnológica Federal do Paraná, lear
 Good bye and good luck.
 
 
-
-## ☎️ Como entrar em contato comigo fora do GitHub
-
-<a href="https://www.linkedin.com/in/victor-da-silva-baptista-689919138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.facebook.com/victor.baptista.568/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><a href="https://www.instagram.com/victorbps/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://steamcommunity.com/profiles/76561198072054824/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-
-
 ## 💻 Linguagens de Programação que já tive contato
 <img align="left" src="https://tinyurl.com/bwvj5r5" alt = "" width = "300" height = "200">
 <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a><br>
@@ -34,6 +28,11 @@ Good bye and good luck.
 <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><br>
 <a href=""><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a><br>
 <a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a><br>
+
+## ☎️ Como entrar em contato comigo fora do GitHub
+
+<a href="https://www.linkedin.com/in/victor-da-silva-baptista-689919138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.facebook.com/victor.baptista.568/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><a href="https://www.instagram.com/victorbps/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://steamcommunity.com/profiles/76561198072054824/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+
 
 ## Meus Status no GitHub
 
