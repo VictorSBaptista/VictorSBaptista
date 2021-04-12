@@ -20,28 +20,12 @@ I am a Math graduated, by the Universidade Tecnológica Federal do Paraná, lear
 Good bye and good luck.
 
 
+
+#### Como entrar em contato comigo fora do GitHub
+
 <a href="https://www.linkedin.com/in/victor-da-silva-baptista-689919138/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://www.facebook.com/victor.baptista.568/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a><a href="https://www.instagram.com/victorbps/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><a href="https://steamcommunity.com/profiles/76561198072054824/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=VictorSBaptista&label=Profile%20views&color=0e75b6&style=social" alt="Victor da Silva Batista" />
 
-###
-####
-#####
-
-######
-
-
-<!--
-**VictorSBaptista/VictorSBaptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
