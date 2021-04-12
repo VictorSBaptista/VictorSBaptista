@@ -30,5 +30,10 @@ Good bye and good luck.
 
 <a href=""><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a><a href=""><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a><a href=""><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
+
+## Meus Status no GitHub
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
+
 <img src="https://komarev.com/ghpvc/?username=VictorSBaptista&label=Profile%20views&color=0e75b6&style=social" alt="Victor da Silva Batista" />
 
