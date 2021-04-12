@@ -1,6 +1,6 @@
 #
 ## Seja muito Bem-Vindo 👋 Welcome Stranger
-<img src="https://komarev.com/ghpvc/?username=VictorSBaptista&label=Profile%20views&color=0e75b6&style=social" alt="Victor da Silva Batista" />
+<img src="https://komarev.com/ghpvc/?username=VictorSBaptista&label=Profile%20views&color=0e75b6&style=social" alt="Victor da Silva Batista" /><br>
 🚶🎓<br>
 Sou graduado em Matemática pela Universidade Tecnológica Federal do Paraná, aprendendo a programar corretamente.<br>
 💻<br>
@@ -33,7 +33,6 @@ Good bye and good luck.
 
 ## Meus Status no GitHub
 
-<img align="center" src="https://tinyurl.com/bwvj5r5" alt="" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
-
+<img align="right" src="https://tinyurl.com/bwvj5r5" alt="" />
