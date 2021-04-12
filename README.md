@@ -35,4 +35,4 @@ Good bye and good luck.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=VictorSBaptista&show_icons=true&locale=en" alt="Victor da Silva Baptista" />
 
-<img align="right" src="https://tinyurl.com/bwvj5r5" alt="" />
+<img align="right" src="https://tinyurl.com/bwvj5r5" alt = "" width = "200" height = "200">
